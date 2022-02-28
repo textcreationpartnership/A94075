@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The strong castle of Gothridge taken by Colonell Birch: Sir Henry Lingen, and fifty gentlemen taken prisoners, all the officers and souldiers at mercy, and all the armes and ammunition, bagg and baggage taken by the said Colonell Birch, on Fryday last, July 31. 1646. Monday the 3d. of August, 1646. This letter of Colonell Birches, with the two other letters, are examined and printed, and published according to order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94075</idno>
+            <idno type="STC">Wing S6015</idno>
+            <idno type="STC">Thomason E349_2</idno>
+            <idno type="STC">ESTC R201021</idno>
+            <idno type="EEBO-CITATION">99861606</idno>
+            <idno type="PROQUEST">99861606</idno>
+            <idno type="VID">159813</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159813)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E349[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The strong castle of Gothridge taken by Colonell Birch: Sir Henry Lingen, and fifty gentlemen taken prisoners, all the officers and souldiers at mercy, and all the armes and ammunition, bagg and baggage taken by the said Colonell Birch, on Fryday last, July 31. 1646. Monday the 3d. of August, 1646. This letter of Colonell Birches, with the two other letters, are examined and printed, and published according to order of Parliament.</title>
+                  <author>Birch, John, 1651-1691.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iane Coe,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Goodrich Castle (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159813:1" rendition="simple:additions"/>
+            <p>The Strong CASTLE OF GOTHRIDGE <hi>Taken by Colonell</hi> BIRCH: Sir Henry Lingen, and fifty Gentlemen taken Priſoners, All the Officers and Souldiers at mercy, And all the Armes and Ammunition, Bagg and Baggage taken by the ſaid Colonell BIRCH, on <hi>Fryday</hi> laſt, July 31. 1646.</p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <opener>
+                        <date>
+                           <hi>Monday the</hi> 3d. <hi>of August,</hi> 1646.</date>
+                     </opener>
+                     <p>This Letter of Colonell Birches, with the two other Letters, are examined, and prin<g ref="char:EOLhyphen"/>ted, and publiſhed according to Order of Parliament.</p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Iane Coe,</hi> 1646.</p>
+            <pb facs="tcp:159813:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="3" facs="tcp:159813:2" rendition="simple:additions"/>
+            <head>The taking of GOTHRIDGE CASTLE By Collonel <hi>Birch,</hi> with all the Armes, and Ammunition, and all Priſoners at mercy, certified by a Letter from Collonel Birch Himſelfe.</head>
+            <opener>
+               <salute>Honoured SIR,</salute>
+            </opener>
+            <p>NO time hath been neglected by me in the pro<g ref="char:EOLhyphen"/>ſecution of this ſervice, but as the ground would admit I have carried on my Appro<g ref="char:EOLhyphen"/>ches, Batteries, and Mynes; And after I had very much torne the Caſtle with my Mortarpiece, that no whole roome was left in it (that not doing the worke) I reſolved to go on with the mines, and Battery (where I could not myne) both of which went on ſo ſucceſ<g ref="char:EOLhyphen"/>fully, that in a few howres I intended to enter by Storme.</p>
+            <pb n="2" facs="tcp:159813:3"/>
+            <p>And to that end drew my horſe and foot together, which the Enemy perceiving, rather then they would run the hazard, took down their Cullers, and put up white (without which I denyed them any Treaty) their deſires were honourable tearms, which I thought not fit to grant, neither to give them any thing beyond mercy for their lives, their perſons to be wholly at my diſ<g ref="char:EOLhyphen"/>poſe; upon which tearms, I have this day received poſ<g ref="char:EOLhyphen"/>ſeſſion of this Caſtle. And when the Parliament ſhall pleaſe to command Sir Henry Lingen to waite upon them, I ſhal carefully bring him up to attend their plea<g ref="char:EOLhyphen"/>ſure. In the meantime I deſire that the Parliament will be pleaſed to ſignifie their pleaſure concerning the de<g ref="char:EOLhyphen"/>moliſhing or keeping this Caſtle; The condition of which, and of all other paſſages here, this Bearer Major Blackmore will give a perfect accompt, who hath been very active and helpfull in this ſervice, together with the condition of the Horſe and Foot under my com<g ref="char:EOLhyphen"/>mand, how much they have been diſcouraged by thoſe who with earneſtneſſe ſeek their owne ends, notwith<g ref="char:EOLhyphen"/>ſtanding all which, no duty hath been omitted, nor any meanes left unattempted which might forward the Publike Service.</p>
+            <closer>
+               <signed>Your muſt humble and reall Servant, <hi>JOHN BIRCH.</hi>
+               </signed>
+               <dateline>
+                  <hi>Gotheridge</hi> 
+                  <date>
+                     <hi>the</hi> 31 <hi>of</hi> Iuly 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:159813:3"/>
+            <head>
+               <hi>The Copy of another Letter from Colonell</hi> Birches <hi>Leagure.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Know not how enough to commmend the gallantry of Col. Birch, in his deport<g ref="char:EOLhyphen"/>ment before Gotheridge Caſtle, a Neſt of Pa<g ref="char:EOLhyphen"/>piſts, and rigid Malignants, that were very deſperate in their reſolutions, which the more encenſed our Souldiers, Sir Henry Lin<g ref="char:EOLhyphen"/>gen would fain have had another Summons to begot a parley; but the former offers refu<g ref="char:EOLhyphen"/>ſed, made our Colonel look upon that as un<g ref="char:EOLhyphen"/>capable of ſo much favour. It is a place very ſtrong, and Mining hath proved very hard work, yet Col. Birch hath uſed all poſſible means, and loſt no opportunity in the ſpee<g ref="char:EOLhyphen"/>ding of the reducing thereof, to the beſt ad<g ref="char:EOLhyphen"/>vantage of the Kingdome, which I believe the ſurrender of Worceſter hath ſomething haſt<g ref="char:EOLhyphen"/>ned.</p>
+            <pb n="4" facs="tcp:159813:4"/>
+            <p>But the Colonell made his approches, and mined with all the ſpeed that the craggineſſe of the place would permit, and not onely plied them with his Bat<g ref="char:EOLhyphen"/>teries, but had done very good execution upon the caſtle with the Granados ſhot from our Mortarpeece. And all things were in ſo faire a way, that wee were almoſt ready to ſtorme; then which the Souldiers deſired nothing more, ſo that all, both Colonel, Of<g ref="char:EOLhyphen"/>ficers and Souldiers, ſhould not have needed to have beene haſtened, had not the worke been ſhortned ano<g ref="char:EOLhyphen"/>ther way. We were ſo neere the ſtorme, that Colonel <hi>Birch</hi> had drawne up the Horſe and Foot, and was or<g ref="char:EOLhyphen"/>dering them into a poſture for falling on. But the e<g ref="char:EOLhyphen"/>nemy in <hi>Gotheridge</hi> Caſtle perceiving in what poſture wee were in, and ſeeing how they were on all ſides ſurprized, their hearts began to faile them, ſo that they took a moſt fearfull Alarm; and (whether by Counſell of Warre, or otherwiſe) they ſpeedily took their condition into conſideration, and (perceiving that wee would not balk with them) being unwilling to endure a ſtorme (which was much the more terrible to them, becauſe of divers Gentry amongſt them) they deſired a parley, but my Colonell would not grant that, though much importuned for it: inſo<g ref="char:EOLhyphen"/>much that when they ſaw wee would not admit of a<g ref="char:EOLhyphen"/>ny delay, they tooke in their Standerd Colours, and held out their white Flagge of Truce, and begged that they might but march out Honourably to their owne homes, and ſome to Garriſons. But no<g ref="char:EOLhyphen"/>thing would bee granted more then quarter for their lives. And in ſhort it was agreed to thus:</p>
+            <p>Firſt, that Sir <hi>Henry Lingen</hi> the Governour of Go<g ref="char:EOLhyphen"/>theridge Caſtle, with all the Officers and Souldiers
+<pb n="5" facs="tcp:159813:4"/> therein, ſhall have mercy for their lives.</p>
+            <p>Secondly, that the ſaid Sir <hi>Henry Lingen</hi> the Go<g ref="char:EOLhyphen"/>vernour, with all the Officers and Souldiers, ſhall ſur<g ref="char:EOLhyphen"/>render up themſelves priſoners to be at Colonel <hi>Birch</hi> his diſpoſing.</p>
+            <p>Thirdly, that all the Armes and Ammunition, pro<g ref="char:EOLhyphen"/>viſion, and whatſoever elſe is in Gotheridge Caſtle, ſhall be delivered up to Colonell <hi>Birch</hi> for the ſervice of the Parliament.</p>
+            <p>Fourthly, that the ſame bee performed preſently the ſame day, <hi>(viz.</hi> July 31. 1646.</p>
+            <p>All which was done accordingly, this preſent day. and Colonell <hi>Birch</hi> is now in poſſeſſion of the Caſtle, wherein beſides the Governour, were about 50. Gen<g ref="char:EOLhyphen"/>tlemen, and others of quality, and 120. Souldiers, of whom I will give you a Liſt of their Names, with all convenient ſpeed.</p>
+            <p>My Colonell hath this day received a letter from Hereford, dated yeſterday, of which I have ſent you a Copy. I hope care will be taken to make all lovers and frinds, &amp; that we that have fought together in one cauſe, and been ready to ſhed our blood one for ano<g ref="char:EOLhyphen"/>ther, ſhall not now ſpill one anothers blood, but live in unity, and enjoy peace through all the Kingdome, which is the prayers of</p>
+            <closer>
+               <signed>Your moſt humble ſervant. <hi>N. H</hi>
+               </signed>
+               <dateline>
+                  <hi>Gotheridge</hi> 
+                  <date>July 31. 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:159813:5"/>
+            <head>The Copy of a Letter ſent to Colonel Birch from <hi>Hereford,</hi> then before <hi>Gotheridge</hi> Caſtle.</head>
+            <head type="sub">
+               <hi>For the honourable Colonell</hi> Birch, <hi>Governour of</hi> Hereford, <hi>at his quarters before</hi> Gotheridge <hi>Caſtle.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HEre is given out by ſome, That as ſoon as <hi>Gothe<g ref="char:EOLhyphen"/>ridge</hi> Caſtle is reduced, you are to march away from this City, and another Colonell to poſſeſſe your place. And truly I think the deſign is working: wher<g ref="char:EOLhyphen"/>fore, if you may uſe all the meanes you can to prevent it, that your Brother, or ſome other friends may com<g ref="char:EOLhyphen"/>mand the Caſtle and Forces which ſhall be left here, if you do not your ſelf. Sir, your buſineſſe for the County Voyces may hold if managed wiſely. I have writ to Sir <hi>Richard Hopton</hi> again in the buſineſſe, A copy of which you ſhall ſee at your return, and am now writing to Sir <hi>Iohn Binges,</hi> but I hear of none that ſtirs in it but my ſelf. They have ſeverall in moſt parts of the County. VVe earneſtly deſire you here. I pray you haſte, I con<g ref="char:EOLhyphen"/>clude, and ſubſcribe my ſelf</p>
+            <closer>
+               <signed>MILES HILL.</signed>
+               <dateline>
+                  <hi>Hereford</hi> 
+                  <date>
+                     <hi>Iuly</hi> 29. 1646.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>I pray you ſet buſineſſe in agitation in thoſe parts, where your Commands are by your Aſſignation Offi<g ref="char:EOLhyphen"/>cers.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
